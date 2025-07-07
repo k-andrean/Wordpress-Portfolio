@@ -17,7 +17,7 @@ Ecommerce Website for catering business built fully on wordpress technology util
 
 <p align="center">
   <img src="assets/Project OUDCatering/cateringoud1.jpg" alt="Screenshot 1" width="45%" />
-  <img src="assets/Project OUDCatering/ceteringoud2.jpg alt="Screenshot 2" width="45%" />
+  <img src="assets/Project OUDCatering/ceteringoud2.jpg" alt="Screenshot 2" width="45%" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ V1 Renewable project includes building an extensive and well designed company pr
 </p>
 
 <p align="center">
-  <img src="assets/Project V1Renewable/v1renewable3.jpg alt="Screenshot 3" width="45%" />
+  <img src="assets/Project V1Renewable/v1renewable3.jpg" alt="Screenshot 3" width="45%" />
   <img src="assets/Project V1Renewable/v1renewable4.jpg" alt="Screenshot 4" width="45%" />
 </p>
 
